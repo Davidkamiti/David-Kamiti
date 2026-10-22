@@ -35,5 +35,5 @@ I report the numbers that make a model look worse as well as better, and each pr
 ## Contact
 
 - GitHub: [Davidkamiti](https://github.com/Davidkamiti)
-- LinkedIn: [David Kamiti]([https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/david-kamiti-71b109278/))
-- Email: kamitidavid479@gmsil.com
+- LinkedIn: [David Kamiti]([https://www.linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/david-kamiti-71b109278/)
+- Email: kamitidavid479@gmail.com
