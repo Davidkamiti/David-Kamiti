@@ -4,7 +4,7 @@ I'm a junior data scientist who builds machine learning models, tests them hones
 
 ## Projects
 
-### [Credit Risk Prediction](https://github.com/Davidkamiti/credit-risk-prediction) ([live demo](https://davidkamiti-credit-risk-prediction.streamlit.app))
+### [Credit Risk Prediction](https://github.com/Davidkamiti/credit-risk-prediction) ([live demo](https://credit-risk-prediction-xsm9tmmnd8gxkixqihejkg.streamlit.app/))
 A tuned Random Forest that estimates loan default risk, deployed as a Streamlit app.
 - ROC-AUC **0.91**; at a 0.6 threshold, 81% precision and 71% recall on defaulters
 - Handled class imbalance with SMOTE, and documented the precision/recall trade-off behind the threshold
@@ -36,4 +36,5 @@ I report the numbers that make a model look worse as well as better, and each pr
 
 - GitHub: [Davidkamiti](https://github.com/Davidkamiti)
 - LinkedIn: [David Kamiti](https://www.linkedin.com/in/david-kamiti-71b109278/)
-- Email: kamitidavid479@gmail.com
+- Email: davidkamiti479@gmail.com
+
